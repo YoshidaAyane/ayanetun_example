@@ -1,1 +1,2 @@
 # ayanetun_example
+やるぞ
